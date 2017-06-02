@@ -1,6 +1,7 @@
 # interactivos17-piratecycle
 
 # Descripción del proyecto
+[![ProjectImage](http://www.piratecycle.net/wp-content/uploads/2017/05/cropped-LogoNegro-1.png)](http://projectWeb.com/)
 [![ProjectImage](http://www.piratecycle.net/wp-content/uploads/2017/05/Diagrama-Secuencial-768x543.jpg)](http://projectWeb.com/)
 ### Idea
 PirateCycle es un dispositivo que hackea la función principal de las bicicletas, para convertirlas en un medio alternativo de diseminación y propagación de contenidos. El dispositivo funciona de forma parasitaria tanto de los vehículos a los que se sujeta, como de la redes de telecomunicación que aprovecha para cumplir su función. A través de la recuperación de tecnologías en desuso como es el caso de los mensajes SMS, el proyecto indaga en tres áreas de exploración: movilidad alternativa, formación de redes y participación ciudadana y gobernanza de la radiofrecuencias, usando el arte como una forma de problematizar nuestra relación con cada una de estas áreas.  
